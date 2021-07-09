@@ -1,0 +1,15 @@
+Grupo:	FELIPE COLOMBO DE SOUZA
+	JONAS VILPERT DAMIANI
+	RENAN PEREIRA
+	VINICIUS MOREIRA ALVES
+
+
+exemplos de Login ja cadastrados
+
+login funcionario:
+	user  - jao49
+	senha - 49jao   
+
+login Gerente (Vem com mais coisas a se fazer no perfil)
+	user  - jorge1
+	senha - jorgebolado
